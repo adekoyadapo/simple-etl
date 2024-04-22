@@ -32,7 +32,6 @@ This project demonstrates an Extract, Transform, Load (ETL) process for a LEGO d
    ```bash
    make help # To list the make commands to run
    make all # runs the entire setup
-   ./deploy.sh
    ```
 
 ## Demo Instructions
