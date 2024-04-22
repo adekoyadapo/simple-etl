@@ -1,0 +1,27 @@
+# Ignore Python virtual environment
+venv/
+.env
+
+# Ignore Conda environment
+env/
+.conda/
+
+# Ignore Docker-related files
+docker-compose.override.yml
+data/
+
+# Ignore system-specific files
+*.DS_Store
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+.env
+data
